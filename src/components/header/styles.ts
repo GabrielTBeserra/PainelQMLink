@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { FaBeer } from 'react-icons/fa';
 
 export const Container = styled.div`
-  background-color: rgb(0, 153, 255);
+  background-color: #0084db;
   display: flex;
   align-items: center;
   padding: 5px;
