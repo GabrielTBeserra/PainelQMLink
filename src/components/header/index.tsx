@@ -14,11 +14,9 @@ const header: React.FC = () => {
         <Link to={"servers"}>
           <button>Servidores</button>
         </Link>
-
         <Link to={"acoes"}>
           <button>Acoes</button>
         </Link>
-
         <Link to={"players"}>
           <button>Jogadores</button>
         </Link>
