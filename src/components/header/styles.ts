@@ -3,6 +3,7 @@ import { FaBeer } from 'react-icons/fa';
 
 export const Container = styled.div`
   background-color: #0084db;
+  
   display: flex;
   align-items: center;
   padding: 5px;
